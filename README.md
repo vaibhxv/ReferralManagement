@@ -65,7 +65,7 @@ A full-stack Candidate Referral Management System built with React and Node.js. 
 POST /candidates     - Create new candidate referral
 GET /candidates     - Retrieve all candidates
 PUT /candidates/:id/status - Update candidate status
-DELETE /candidates/:id    - Remove candidate (optional)
+DELETE /candidates/:id    - Remove candidate
 ```
 
 ## 🚀 Getting Started
