@@ -2,7 +2,7 @@
 
 [![Node.js](https://img.shields.io/badge/Node.js-v14+-green.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18.x-blue.svg)](https://reactjs.org/)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white/)]
 
 🔗 **Live Deployments:**
 - Frontend: [https://referral-management.vercel.app/](https://referral-management.vercel.app/)
