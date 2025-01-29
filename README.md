@@ -1,8 +1,8 @@
 # Candidate Referral Management System
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+[![Node.js](https://img.shields.io/badge/Node.js-v14+-green.svg)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-18.x-blue.svg)](https://reactjs.org/)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg/)
 
 🔗 **Live Deployments:**
 - Frontend: [https://referral-management.vercel.app/](https://referral-management.vercel.app/)
